@@ -19,7 +19,7 @@ Welcome to Flutter Firebase Authentication with GetX! This Flutter application s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flutter-firebase-authentication-getx.git
+   git clone https://github.com/mo2men184/flutter-firebase-authentication-getx.git
 
 2. Set up Firebase:
 
