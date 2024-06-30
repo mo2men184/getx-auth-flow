@@ -45,10 +45,17 @@ Welcome to Flutter Firebase Authentication with GetX! This Flutter application s
     Push to the branch (git push origin feature/awesome-feature)
     Create a new Pull Request
 
-## Author ℹ️
+## About the Developer 🌟
 
-    Mo'men M.,
-    Feel free to reach out to me at moamenng@gmail.com for any questions or feedback.
+**👨‍💻Mo'men M.** is passionate about creating efficient and user-friendly mobile applications. With expertise in Flutter and Firebase, Mo'men focuses on delivering robust solutions that enhance user experiences and meet business objectives.
+
+- 🌐 Website: [mmdev.studio](https://mmdev.studio/)
+- 💼 LinkedIn: [mm-devstudio](https://www.linkedin.com/in/mm-devstudio/)
+- 📸 Instagram: [devstudio_mm](https://www.instagram.com/devstudio_mm/)
+- 📝 Upwork: [Mo'men M. on Upwork](https://upwork.com/freelancers/mo2men184)
+- 💻 Freelancer: [devmo2 on Freelancer](https://www.freelancer.com/u/devmo2)
+- 📧 Email: [dev.moamen.sr@gmail.com](mailto:dev.moamen.sr@gmail.com)
+
 
 ## License 📄
 
